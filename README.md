@@ -1,4 +1,4 @@
-# Python
+# Simple python neural network
 This is an example of a tensorflow AI neural network in action.
 The neural network outputs (x,y) coordinates, which determine the position of the white square in the pygame display.
 The goal of the white sprite is to reach the red target as efficiently as possible. 
